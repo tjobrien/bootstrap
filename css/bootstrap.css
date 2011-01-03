@@ -1,0 +1,46 @@
+
+			
+.test1 {font-family:Verdana;}
+
+.test2 {font-family:Arial}
+
+.test3 {font-family:Helvetica}
+
+#hd-left{
+	bottom: 0px;
+	float: left;
+	
+	}
+	
+#hd-right{
+	float: right;
+	
+	}
+	
+#navlinks {
+	margin: 0; padding: 0.5em 3em;
+/*	background: #686397; 
+	background-color: #DDD;*/
+	color: #FFF;
+	
+}
+
+#navlinks li {
+	display: inline;
+	margin-right: 0.5em; padding-right: 0.75em;
+	border-right: 1px solid #99C;
+	font-weight: normal;
+}
+
+#navlinks li.last {
+	border-right: 0;
+}
+
+#navlinks a {
+	color: blue;
+	
+}
+
+
+
+
