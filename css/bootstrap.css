@@ -45,3 +45,25 @@ body {
 	font-family:Verdana;
 }
 
+#footerbullets {
+	
+
+	color: #6b6b6b;
+	
+
+}
+
+#footerbullets li {
+	display: inline;
+}
+
+.class {
+}
+
+#icontable table th, td {
+	border-style: none;
+}
+
+table th, 
+table td {border:none;}
+
