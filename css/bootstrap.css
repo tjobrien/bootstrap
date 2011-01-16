@@ -5,21 +5,11 @@
 .test2 {font-family:Arial}
 
 .test3 {font-family:Helvetica}
-
-#hd-left{
-	bottom: 0px;
-	float: left;
-	
-	}
-	
-#hd-right{
-	float: right;
-	
-	}
 	
 #navlinks {
-	margin: 0; padding: 0.5em 3em;
-/*	background: #686397; 
+	margin: 0; 
+/*	padding: 0.5em 3em;
+	background: #686397; 
 	background-color: #DDD;*/
 	color: #FFF;
 	
@@ -57,8 +47,6 @@ body {
 	display: inline;
 }
 
-.class {
-}
 
 #icontable table th, td {
 	border-style: none;
@@ -66,4 +54,10 @@ body {
 
 table th, 
 table td {border:none;}
+
+hr.space {
+background:#fff;
+color:#fff;
+visibility:hidden;
+}
 
