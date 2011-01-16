@@ -55,7 +55,7 @@ body {
 table th, 
 table td {border:none;}
 
-hr.space {
+.space {
 background:#fff;
 color:#fff;
 visibility:hidden;
