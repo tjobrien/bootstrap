@@ -1,16 +1,23 @@
 
 			
+/*
 .test1 {font-family:Verdana;}
 
 .test2 {font-family:Arial}
 
 .test3 {font-family:Helvetica}
-	
+*/
+
+#doc2 {
+
+background-color: white;
+
+}
 #navlinks {
 	margin: 0; 
-/*	padding: 0.5em 3em;
+	padding: 0.5em 3em;
 	background: #686397; 
-	background-color: #DDD;*/
+	background-color: #DDD;
 	color: #FFF;
 	
 }
@@ -32,7 +39,8 @@
 }
 
 body {
-	font-family:Verdana;
+	/* background: #F0F0F0 url(../images/bg-dot.png) top; */
+	font-family:Verdana
 }
 
 #footerbullets {
