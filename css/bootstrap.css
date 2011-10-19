@@ -13,6 +13,9 @@
 background-color: white;
 
 }
+
+#card {text-align: center;
+}
 #navlinks {
 	margin: 0; 
 	padding: 0.5em 3em;
@@ -68,6 +71,7 @@ background:#fff;
 color:#fff;
 visibility:hidden;
 }
+
 
 .center {text-align: center}
 
