@@ -15,6 +15,7 @@ background-color: white;
 }
 
 #card {text-align: center;
+	margin-bottom: 20px;
 }
 #navlinks {
 	margin: 0; 
