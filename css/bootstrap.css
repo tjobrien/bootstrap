@@ -7,7 +7,8 @@
 
 .test3 {font-family:Helvetica}
 */
-
+body {
+background-image: url(../images/grunge2.jpg)}
 #doc2 {
 
 background-color: white;
