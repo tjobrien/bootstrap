@@ -60,6 +60,10 @@ body {
 	display: inline;
 }
 
+#icontable {
+    margin-left:auto; 
+    margin-right:auto;
+  }
 
 #icontable table th, td {
 	border-style: none;
