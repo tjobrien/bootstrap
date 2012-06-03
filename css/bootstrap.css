@@ -1,19 +1,15 @@
+		
 
-			
-/*
-.test1 {font-family:Verdana;}
-
-.test2 {font-family:Arial}
-
-.test3 {font-family:Helvetica}
-*/
-body {
-background-image: url(../images/grunge2.jpg)}
 #doc2 {
 
 background-color: white;
 
 }
+body {
+/* 	background: #F0F0F0 url(../images/bg-dot.png) top; */
+	font-family:Verdana
+}
+
 
 #card {text-align: center;
 	margin-bottom: 20px;
@@ -41,11 +37,6 @@ background-color: white;
 #navlinks a {
 	color: blue;
 	
-}
-
-body {
-	/* background: #F0F0F0 url(../images/bg-dot.png) top; */
-	font-family:Verdana
 }
 
 #footerbullets {
